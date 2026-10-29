@@ -1,0 +1,6 @@
+조달타운의 3D 건물, 주민, 차량, 지형은 Three.js 기본 Geometry로 생성합니다.
+모든 게임 데이터는 빌드 시 JavaScript에 포함합니다.
+효과음은 Web Audio로 합성하며 외부 음원·텍스처·글꼴·모델 파일이 필요하지 않습니다.
+Three.js MIT 라이선스는 실행 폴더의 THIRD_PARTY_LICENSES.txt에 있습니다.
+
+2026-10-28 v0.3.1: building-levels.png는 자체 Three.js 모델 18개를 로컬에서 렌더링한 디자인 비교 이미지입니다. 외부 이미지/폰트/3D 모델을 사용하지 않습니다.
